@@ -1,5 +1,3 @@
-La seccion de ''Contacto empresarial'' es totalmente funcional,
-con la posibilidad de que, al llenar los campos y oprimir ''enviar''
-abrirá el programas de correo por defecto, con el email completado
-en base a los datos que contiene el formulario. 
+La seccion de ''Contacto empresarial'' (Seccion inferior izquierda) 
+es totalmente funcional, con la posibilidad de que, al llenar los campos y oprimir ''enviar'' abrirá el programas de correo por defecto, con el email completado en base a los datos que contiene el formulario. 
 Por defecto está puesto mi Email personal para contacto.
